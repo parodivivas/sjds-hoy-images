@@ -10,3 +10,6 @@ Event photos are copies of the images attached to the public Facebook posts link
 - `2026-09-24/ceviche-mixto-generic.jpg` — "Ceviche at the Municipal Market of Sao Paulo" by Wilfredor, CC0 (resized). https://commons.wikimedia.org/wiki/File:Ceviche_at_the_Municipal_Market_of_Sao_Paulo.jpg
 - `2026-09-24/cooler-bar-drinks-generic.jpg` — "Bartender at Sylvarum cocktail bar, Alicante" by Kartoman, CC0 (resized). https://commons.wikimedia.org/wiki/File:Bartender_at_Sylvarum_cocktail_bar,_Alicante.jpg
 - `2026-09-24/josselines-seafood-generic.jpg` — "Platter of grilled seafood, Charco Azul, La Palma" by Gerda Arendt, CC0 (resized). https://commons.wikimedia.org/wiki/File:Platter_of_grilled_seafood,_Charco_Azul,_La_Palma.jpg
+- `2026-09-25/rincon-maria-comida-generic.jpg` — "Salpicón de Mariscos - 2011" by Tamorlan, CC BY 3.0 (resized). https://commons.wikimedia.org/wiki/File:Salpic%C3%B3n_de_Mariscos_-_2011.JPG
+- `2026-09-25/sunny-beach-bar-viernes-generic.jpg` — "Summer-Tequila shots" by Andrzej, CC0 (resized). https://commons.wikimedia.org/wiki/File:Summer-Tequila_shots.jpg
+- `2026-09-25/cache-cache-desayunos-generic.jpg` — "Desayuno tradicional de Costa Rica" by Aherver, CC BY 4.0 (resized). https://commons.wikimedia.org/wiki/File:Desayuno_tradicional_de_Costa_Rica.jpg
