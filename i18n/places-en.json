@@ -3877,6 +3877,38 @@
         "Surf",
         "Sunset"
       ]
+    },
+    "l-el-transito": {
+      "tagline": "Rocks and natural pools",
+      "blurb": "Fishing village on the Managua coast, past Puerto Sandino. Dark sand, volcanic rock formations and calm pools at low tide. Fresh seafood at the beach ranchos.",
+      "tip": "About 1 h 15 min by car from León on the new highway to Managua and the El Tránsito turnoff. The pools are best at low tide.",
+      "area": "El Tránsito · Managua",
+      "tags": [
+        "Beach",
+        "Rocks",
+        "Sunset"
+      ]
+    },
+    "l-jiquilillo": {
+      "tagline": "Long beach and palm trees",
+      "blurb": "Fishing village in Chinandega, north of León. Miles of dark sand under the palms, surfable waves and quiet beach hostels. The Padre Ramos estuary is right next door.",
+      "tip": "About 2 hours by car from León via Chinandega and El Viejo. There are also buses from El Viejo. Bring cash: ATMs are scarce.",
+      "tags": [
+        "Beach",
+        "Surf",
+        "Quiet"
+      ]
+    },
+    "l-padre-ramos": {
+      "tagline": "Estuary, mangroves and turtles",
+      "blurb": "Nature reserve next to Jiquilillo. An estuary beach with calm water, mangroves to explore by boat or kayak and turtles nesting in season. Packed with families at Easter.",
+      "tip": "About 2 h 15 min by car from León via Chinandega, El Viejo and the Jiquilillo road. Boat tours leave from Padre Ramos village.",
+      "area": "Padre Ramos Estuary · El Viejo",
+      "tags": [
+        "Estuary",
+        "Mangrove",
+        "Turtles"
+      ]
     }
   },
   "text": {
@@ -4904,6 +4936,12 @@
     "Playa San Juan del Sur": "San Juan del Sur Beach",
     "Pulperías": "Corner shops",
     "Playa abierta y salineras": "Open beach and salt flats",
-    "Playa Azul, olas y atardecer": "Playa Azul, waves and sunsets"
+    "Playa Azul, olas y atardecer": "Playa Azul, waves and sunsets",
+    "Rocas y piscinas naturales": "Rocks and natural pools",
+    "Playa larga y palmeras": "Long beach and palm trees",
+    "Estero, manglar y tortugas": "Estuary, mangroves and turtles",
+    "Tranquilo": "Quiet",
+    "Rocas": "Rocks",
+    "Estero": "Estuary"
   }
 }
