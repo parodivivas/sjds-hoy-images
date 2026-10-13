@@ -3909,6 +3909,17 @@
         "Mangrove",
         "Turtles"
       ]
+    },
+    "delivery-san-juan": {
+      "tagline": "Restaurant food delivered",
+      "blurb": "Home delivery from San Juan del Sur restaurants such as Dockside, Pompeya Pizza, Maggy’s Steak House, Dale Pues (Tropical Garden Café & Dining) and Vicky’s Pizza. Order on WhatsApp and they bring it to you.",
+      "area": "All over town",
+      "tip": "WhatsApp +505 8411 3602. The catalog with restaurants and menus is on their WhatsApp profile.",
+      "tags": [
+        "Delivery",
+        "WhatsApp",
+        "Restaurants"
+      ]
     }
   },
   "text": {
@@ -4942,6 +4953,9 @@
     "Estero, manglar y tortugas": "Estuary, mangroves and turtles",
     "Tranquilo": "Quiet",
     "Rocas": "Rocks",
-    "Estero": "Estuary"
+    "Estero": "Estuary",
+    "Comida de restaurantes a domicilio": "Restaurant food delivered",
+    "Todo el pueblo": "All over town",
+    "Restaurantes": "Restaurants"
   }
 }
