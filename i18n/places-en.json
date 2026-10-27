@@ -3922,7 +3922,19 @@
       ]
     },
     "fuente-chocolate": {
-      "blurb": "Chocolate shop and café. A variety of organic Nicaraguan chocolates and coffees, natural smoothies and other hot and cold drinks, a variety of delicious desserts, whole or sliced cakes, healthy vegan products, artisan baguette sandwiches and more..."
+      "blurb": "Chocolate shop and café. A variety of organic Nicaraguan chocolates and coffees, natural smoothies and other hot and cold drinks, a variety of delicious desserts, whole or sliced cakes, healthy vegan products, artisan baguette sandwiches and more...",
+      "tip": "Try the hot chocolate or the brownie with ice cream. Vegan desserts are marked in the display case. WhatsApp +505 8764 0989."
+    },
+    "casa-la-nina": {
+      "tagline": "Short or long-term rental",
+      "blurb": "House for short or long-term rent, modern style, spacious, 3 bedrooms for 8 people, a 5-minute walk from downtown and the beach, beautiful views over the sea, the town and the countryside, 2 covered terraces, A/C, jacuzzi...",
+      "area": "5 min from downtown",
+      "tip": "WhatsApp +505 8764 0989 (Maria Jose Sanchez Silva).",
+      "tags": [
+        "House",
+        "3 bedrooms",
+        "Jacuzzi"
+      ]
     }
   },
   "text": {
@@ -4960,6 +4972,13 @@
     "Comida de restaurantes a domicilio": "Restaurant food delivered",
     "Todo el pueblo": "All over town",
     "Restaurantes": "Restaurants",
-    "Chocolatería y cafetería. Variedad de chocolates y cafés orgánicos nicaragüenses, batidos naturales y otras bebidas calientes y frías, variedad de deliciosos postres, pasteles enteros o porcionados, productos veganos saludables, sándwiches de pan baguette artesanal y más...": "Chocolate shop and café. A variety of organic Nicaraguan chocolates and coffees, natural smoothies and other hot and cold drinks, a variety of delicious desserts, whole or sliced cakes, healthy vegan products, artisan baguette sandwiches and more..."
+    "Chocolatería y cafetería. Variedad de chocolates y cafés orgánicos nicaragüenses, batidos naturales y otras bebidas calientes y frías, variedad de deliciosos postres, pasteles enteros o porcionados, productos veganos saludables, sándwiches de pan baguette artesanal y más...": "Chocolate shop and café. A variety of organic Nicaraguan chocolates and coffees, natural smoothies and other hot and cold drinks, a variety of delicious desserts, whole or sliced cakes, healthy vegan products, artisan baguette sandwiches and more...",
+    "Casa para renta a corto o largo plazo, estilo moderno, espaciosa, 3 cuartos para 8 personas, a 5 minutos caminando del centro y de la playa, hermosa vista sobre el mar, la ciudad y el campo, 2 terrazas techadas, A/C, jacuzzi...": "House for short or long-term rent, modern style, spacious, 3 bedrooms for 8 people, a 5-minute walk from downtown and the beach, beautiful views over the sea, the town and the countryside, 2 covered terraces, A/C, jacuzzi...",
+    "Renta a corto o largo plazo": "Short or long-term rental",
+    "A 5 min del centro": "5 min from downtown",
+    "3 cuartos": "3 bedrooms",
+    "Jacuzzi": "Jacuzzi",
+    "Ver en Facebook": "See on Facebook",
+    "Prueba el chocolate caliente o el brownie con helado. Los postres veganos están marcados en la vitrina. WhatsApp +505 8764 0989.": "Try the hot chocolate or the brownie with ice cream. Vegan desserts are marked in the display case. WhatsApp +505 8764 0989."
   }
 }
