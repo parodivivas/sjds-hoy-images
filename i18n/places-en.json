@@ -3995,6 +3995,18 @@
         "Couples",
         "WiFi"
       ]
+    },
+    "relaxvacation-sjds": {
+      "tagline": "Vacation rentals and property management",
+      "blurb": "They manage more than 30 properties in San Juan del Sur: beachfront villas, houses with pools and apartments downtown. Message them on WhatsApp and they will send you the full catalog with availability and rates.",
+      "area": "San Juan del Sur",
+      "tip": "Service in Spanish and English, same-day replies. WhatsApp +505 8816 7161 (Yanaisy Ércia).",
+      "tags": [
+        "Agency",
+        "Villas",
+        "Houses with pool",
+        "Apartments"
+      ]
     }
   },
   "text": {
@@ -5075,6 +5087,17 @@
     "Contiguo a la antigua biblioteca, costado sur de la iglesia. WhatsApp +505 8816 7161 (Yanaisy Ércia).": "Next to the old library, on the south side of the church. WhatsApp +505 8816 7161 (Yanaisy Ércia).",
     "Apartamento": "Apartment",
     "Parejas": "Couples",
-    "WiFi": "WiFi"
+    "WiFi": "WiFi",
+    "Agencia · 30+ propiedades": "Agency · 30+ properties",
+    "Alquiler vacacional y administración de propiedades": "Vacation rentals and property management",
+    "Administran más de 30 propiedades en San Juan del Sur: villas frente al mar, casas con piscina y apartamentos en el centro. Escríbeles por WhatsApp y te envían el catálogo completo con disponibilidad y tarifas.": "They manage more than 30 properties in San Juan del Sur: beachfront villas, houses with pools and apartments downtown. Message them on WhatsApp and they will send you the full catalog with availability and rates.",
+    "Atención en español e inglés y respuesta el mismo día. WhatsApp +505 8816 7161 (Yanaisy Ércia).": "Service in Spanish and English, same-day replies. WhatsApp +505 8816 7161 (Yanaisy Ércia).",
+    "Agencia": "Agency",
+    "Villas": "Villas",
+    "Casas con piscina": "Houses with pool",
+    "Apartamentos": "Apartments",
+    "Catálogo": "Catalog",
+    "Correo": "Email",
+    "Sus propiedades en InGuía": "Their properties on InGuía"
   }
 }
