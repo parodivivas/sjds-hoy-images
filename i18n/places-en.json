@@ -3920,6 +3920,9 @@
         "WhatsApp",
         "Restaurants"
       ]
+    },
+    "fuente-chocolate": {
+      "blurb": "Chocolate shop and café. A variety of organic Nicaraguan chocolates and coffees, natural smoothies and other hot and cold drinks, a variety of delicious desserts, whole or sliced cakes, healthy vegan products, artisan baguette sandwiches and more..."
     }
   },
   "text": {
@@ -4956,6 +4959,7 @@
     "Estero": "Estuary",
     "Comida de restaurantes a domicilio": "Restaurant food delivered",
     "Todo el pueblo": "All over town",
-    "Restaurantes": "Restaurants"
+    "Restaurantes": "Restaurants",
+    "Chocolatería y cafetería. Variedad de chocolates y cafés orgánicos nicaragüenses, batidos naturales y otras bebidas calientes y frías, variedad de deliciosos postres, pasteles enteros o porcionados, productos veganos saludables, sándwiches de pan baguette artesanal y más...": "Chocolate shop and café. A variety of organic Nicaraguan chocolates and coffees, natural smoothies and other hot and cold drinks, a variety of delicious desserts, whole or sliced cakes, healthy vegan products, artisan baguette sandwiches and more..."
   }
 }
