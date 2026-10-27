@@ -4007,6 +4007,49 @@
         "Houses with pool",
         "Apartments"
       ]
+    },
+    "papis-house": {
+      "tagline": "House with pool, hot tub and bay views",
+      "blurb": "Single-story house open to the garden, with a private pool, hot tub and direct views of the San Juan del Sur bay. Four air-conditioned bedrooms and a living-dining room that opens fully onto the terrace. Hammock, loungers, gas BBQ, sound system, fully equipped kitchen and parking for three cars.",
+      "area": "Hills above the bay",
+      "tip": "10 min from the beach and 12 min from the boardwalk and the Christ of Mercy statue. Book on WhatsApp +505 8816 7161 (Yanaisy Ércia); they confirm availability and rates the same day.",
+      "tags": [
+        "House",
+        "Pool",
+        "Hot tub",
+        "Bay view"
+      ],
+      "hours": "4 bedrooms",
+      "amenities": [
+        {
+          "label": "Bedrooms",
+          "detail": "4 air-conditioned bedrooms and a sofa bed."
+        },
+        {
+          "label": "Pool and hot tub",
+          "detail": "Private pool and hot tub with bay views."
+        },
+        {
+          "label": "Terrace",
+          "detail": "Terrace with hammock and loungers; the living-dining room opens fully through sliding doors."
+        },
+        {
+          "label": "Kitchen and BBQ",
+          "detail": "Fully equipped kitchen and gas BBQ."
+        },
+        {
+          "label": "Entertainment",
+          "detail": "Cable TV, WiFi and sound system."
+        },
+        {
+          "label": "Parking",
+          "detail": "Parking for 3 cars."
+        },
+        {
+          "label": "Electricity",
+          "detail": "Includes 30 kW of power use per day; extra is charged at US$1 per kW."
+        }
+      ]
     }
   },
   "text": {
@@ -5098,6 +5141,25 @@
     "Apartamentos": "Apartments",
     "Catálogo": "Catalog",
     "Correo": "Email",
-    "Sus propiedades en InGuía": "Their properties on InGuía"
+    "Sus propiedades en InGuía": "Their properties on InGuía",
+    "Casa con piscina, jacuzzi y vista a la bahía": "House with pool, hot tub and bay views",
+    "Casa de una planta abierta al jardín, con piscina privada, jacuzzi y vista directa a la bahía de San Juan del Sur. Cuatro habitaciones con aire acondicionado y una sala-comedor que se abre por completo a la terraza. Hamaca, tumbonas, BBQ de gas, sistema de sonido, cocina equipada y parqueo para tres vehículos.": "Single-story house open to the garden, with a private pool, hot tub and direct views of the San Juan del Sur bay. Four air-conditioned bedrooms and a living-dining room that opens fully onto the terrace. Hammock, loungers, gas BBQ, sound system, fully equipped kitchen and parking for three cars.",
+    "Colinas sobre la bahía": "Hills above the bay",
+    "4 habitaciones": "4 bedrooms",
+    "A 10 min de la playa y a 12 min del malecón y del Cristo de la Misericordia. Reservas por WhatsApp +505 8816 7161 (Yanaisy Ércia), te confirman disponibilidad y tarifa el mismo día.": "10 min from the beach and 12 min from the boardwalk and the Christ of Mercy statue. Book on WhatsApp +505 8816 7161 (Yanaisy Ércia); they confirm availability and rates the same day.",
+    "Vista a la bahía": "Bay view",
+    "Habitaciones": "Bedrooms",
+    "4 habitaciones con aire acondicionado y sofá cama.": "4 air-conditioned bedrooms and a sofa bed.",
+    "Piscina y jacuzzi": "Pool and hot tub",
+    "Piscina privada y jacuzzi con vista a la bahía.": "Private pool and hot tub with bay views.",
+    "Terraza con hamaca y tumbonas; la sala-comedor se abre por completo con puertas corredizas.": "Terrace with hammock and loungers; the living-dining room opens fully through sliding doors.",
+    "Cocina y BBQ": "Kitchen and BBQ",
+    "Cocina totalmente equipada y BBQ de gas.": "Fully equipped kitchen and gas BBQ.",
+    "Entretenimiento": "Entertainment",
+    "TV cable, Wifi y sistema de sonido.": "Cable TV, WiFi and sound system.",
+    "Parqueo": "Parking",
+    "Parqueo para 3 vehículos.": "Parking for 3 cars.",
+    "Electricidad": "Electricity",
+    "Incluye 30 kW de consumo por día; el excedente se cobra a US$1 por kW.": "Includes 30 kW of power use per day; extra is charged at US$1 per kW."
   }
 }
