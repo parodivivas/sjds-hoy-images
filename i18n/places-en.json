@@ -994,7 +994,8 @@
         "Seafood",
         "Mojito",
         "Beach"
-      ]
+      ],
+      "tagline": "Beachfront seafood, Paseo del Rey"
     },
     "sunny-beach": {
       "tagline": "Beach bar, 200 m north",
@@ -5160,6 +5161,7 @@
     "Parqueo": "Parking",
     "Parqueo para 3 vehículos.": "Parking for 3 cars.",
     "Electricidad": "Electricity",
-    "Incluye 30 kW de consumo por día; el excedente se cobra a US$1 por kW.": "Includes 30 kW of power use per day; extra is charged at US$1 per kW."
+    "Incluye 30 kW de consumo por día; el excedente se cobra a US$1 por kW.": "Includes 30 kW of power use per day; extra is charged at US$1 per kW.",
+    "Mariscos frente a la playa, Paseo del Rey": "Beachfront seafood, Paseo del Rey"
   }
 }
