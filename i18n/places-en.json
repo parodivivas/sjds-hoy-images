@@ -3983,6 +3983,18 @@
         "Muay Thai",
         "BJJ"
       ]
+    },
+    "apartamentos-la-playa": {
+      "tagline": "200 m from the beach, right downtown",
+      "blurb": "Just 200 meters from the beach, right in the center of San Juan del Sur. A fully equipped apartment: queen bed plus sofa bed, full kitchen with microwave, fridge and coffee maker, and WiFi included. Food and drinks are allowed. Comfortable, private and safe; ideal for couples.",
+      "area": "Downtown · south side of the church",
+      "hours": "Check-in 1:00 pm · check-out 11:00 am",
+      "tip": "Next to the old library, on the south side of the church. WhatsApp +505 8816 7161 (Yanaisy Ércia).",
+      "tags": [
+        "Apartment",
+        "Couples",
+        "WiFi"
+      ]
     }
   },
   "text": {
@@ -5055,6 +5067,14 @@
     "Clase US$6, día US$10, mes US$40, sin contrato. Se paga abajo en Dockside. WhatsApp +505 8485 3176.": "Class US$6, day US$10, month US$40, no contract. Pay downstairs at Dockside. WhatsApp +505 8485 3176.",
     "Muay thai": "Muay Thai",
     "BJJ": "BJJ",
-    "Gimnasios": "Gyms"
+    "Gimnasios": "Gyms",
+    "A 200 m de la playa, en el centro": "200 m from the beach, right downtown",
+    "A solo 200 metros de la playa y en pleno centro de San Juan del Sur. Apartamento totalmente equipado: cama Queen + sofá cama, cocina completa con microondas, refrigeradora y cafetera, y WiFi incluido. Se permiten comidas y bebidas. Ambiente cómodo, privado y seguro; ideal para parejas.": "Just 200 meters from the beach, right in the center of San Juan del Sur. A fully equipped apartment: queen bed plus sofa bed, full kitchen with microwave, fridge and coffee maker, and WiFi included. Food and drinks are allowed. Comfortable, private and safe; ideal for couples.",
+    "Centro · costado sur de la iglesia": "Downtown · south side of the church",
+    "Check-in 1:00 pm · check-out 11:00 am": "Check-in 1:00 pm · check-out 11:00 am",
+    "Contiguo a la antigua biblioteca, costado sur de la iglesia. WhatsApp +505 8816 7161 (Yanaisy Ércia).": "Next to the old library, on the south side of the church. WhatsApp +505 8816 7161 (Yanaisy Ércia).",
+    "Apartamento": "Apartment",
+    "Parejas": "Couples",
+    "WiFi": "WiFi"
   }
 }
