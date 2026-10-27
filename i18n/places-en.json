@@ -3935,6 +3935,54 @@
         "3 bedrooms",
         "Jacuzzi"
       ]
+    },
+    "gym-move-viva": {
+      "tagline": "Gym and group classes",
+      "blurb": "A modern, clean gym open 7 days a week on Paseo del Rey, where Crazy Crab used to be (20 m north of Hotel Anamar). Machines, Olympic bars, spin bikes, group classes and personal training.",
+      "area": "Paseo del Rey",
+      "hours": "Mon–Thu 6:00–20:00 · Fri 6:00–19:00 · Sat 8:00–16:00 · Sun 8:00–14:00",
+      "tip": "Day pass US$5, week US$20, month US$30 (paying in person). WhatsApp +505 8553 3296.",
+      "tags": [
+        "Gym",
+        "Group classes",
+        "Spinning"
+      ]
+    },
+    "gym-fight-club": {
+      "tagline": "Weights, boxing and martial arts",
+      "blurb": "The biggest gym in town, 1.5 blocks east of the market. Free weights, machines, a boxing ring and mats, with boxing, CrossFit, MMA and jiu-jitsu classes.",
+      "area": "Downtown · near the market",
+      "hours": "Mon–Fri 6:00–20:00 · Sat 6:00–17:00 · Sun 8:00–13:00",
+      "tip": "☎ 2568-2192. Private boxing lessons with Carlos. Instagram @fightclubgym_sjds.",
+      "tags": [
+        "Gym",
+        "Boxing",
+        "MMA"
+      ]
+    },
+    "gym-gymsito": {
+      "tagline": "Weights at the end of the beach",
+      "blurb": "A small, well-equipped gym at the north end of the beach, on Paseo del Rey. Plenty of machines and free weights at a good price. No air conditioning; closed at midday and on Sundays.",
+      "area": "Paseo del Rey",
+      "hours": "Mon–Fri 5:00–11:00 and 14:00–20:00 · Sat 5:00–11:00 and 14:00–17:00 · Sun closed",
+      "tip": "Day pass about C$180. Bring a towel: it is required to get in.",
+      "tags": [
+        "Gym",
+        "Weights",
+        "Machines"
+      ]
+    },
+    "gym-moju-fight": {
+      "tagline": "MMA, Muay Thai, BJJ and boxing",
+      "blurb": "A martial arts gym since 2008, upstairs above Dockside at the port. Group and private BJJ, MMA, Muay Thai and boxing classes for all levels, with gloves, heavy bags and a weight rack.",
+      "area": "The port · above Dockside",
+      "hours": "Mon–Sun 7:00–22:00",
+      "tip": "Class US$6, day US$10, month US$40, no contract. Pay downstairs at Dockside. WhatsApp +505 8485 3176.",
+      "tags": [
+        "MMA",
+        "Muay Thai",
+        "BJJ"
+      ]
     }
   },
   "text": {
@@ -4979,6 +5027,34 @@
     "3 cuartos": "3 bedrooms",
     "Jacuzzi": "Jacuzzi",
     "Ver en Facebook": "See on Facebook",
-    "Prueba el chocolate caliente o el brownie con helado. Los postres veganos están marcados en la vitrina. WhatsApp +505 8764 0989.": "Try the hot chocolate or the brownie with ice cream. Vegan desserts are marked in the display case. WhatsApp +505 8764 0989."
+    "Prueba el chocolate caliente o el brownie con helado. Los postres veganos están marcados en la vitrina. WhatsApp +505 8764 0989.": "Try the hot chocolate or the brownie with ice cream. Vegan desserts are marked in the display case. WhatsApp +505 8764 0989.",
+    "Gimnasio y clases grupales": "Gym and group classes",
+    "Gimnasio moderno, limpio y abierto los 7 días en Paseo del Rey, donde fue Crazy Crab (del Hotel Anamar 20 m al norte). Máquinas, barras olímpicas, bicis de spinning, clases grupales y entrenamiento personal.": "A modern, clean gym open 7 days a week on Paseo del Rey, where Crazy Crab used to be (20 m north of Hotel Anamar). Machines, Olympic bars, spin bikes, group classes and personal training.",
+    "Paseo del Rey": "Paseo del Rey",
+    "Lun–jue 6:00–20:00 · vie 6:00–19:00 · sáb 8:00–16:00 · dom 8:00–14:00": "Mon–Thu 6:00–20:00 · Fri 6:00–19:00 · Sat 8:00–16:00 · Sun 8:00–14:00",
+    "Pase del día US$5, semana US$20, mes US$30 (pagando en persona). WhatsApp +505 8553 3296.": "Day pass US$5, week US$20, month US$30 (paying in person). WhatsApp +505 8553 3296.",
+    "Clases grupales": "Group classes",
+    "Spinning": "Spinning",
+    "Pesas, boxeo y artes marciales": "Weights, boxing and martial arts",
+    "El gimnasio más grande del pueblo, 1.5 cuadras al este del mercado. Pesas libres, máquinas, ring de boxeo y tatami, con clases de boxeo, CrossFit, MMA y jiu-jitsu.": "The biggest gym in town, 1.5 blocks east of the market. Free weights, machines, a boxing ring and mats, with boxing, CrossFit, MMA and jiu-jitsu classes.",
+    "Centro · cerca del mercado": "Downtown · near the market",
+    "Lun–vie 6:00–20:00 · sáb 6:00–17:00 · dom 8:00–13:00": "Mon–Fri 6:00–20:00 · Sat 6:00–17:00 · Sun 8:00–13:00",
+    "☎ 2568-2192. Clases privadas de boxeo con Carlos. Instagram @fightclubgym_sjds.": "☎ 2568-2192. Private boxing lessons with Carlos. Instagram @fightclubgym_sjds.",
+    "Boxeo": "Boxing",
+    "MMA": "MMA",
+    "Pesas al final de la playa": "Weights at the end of the beach",
+    "Gimnasio pequeño y bien equipado en el extremo norte de la playa, en Paseo del Rey. Muchas máquinas y pesas libres a buen precio. Sin aire acondicionado; cierra al mediodía y los domingos.": "A small, well-equipped gym at the north end of the beach, on Paseo del Rey. Plenty of machines and free weights at a good price. No air conditioning; closed at midday and on Sundays.",
+    "Lun–vie 5:00–11:00 y 14:00–20:00 · sáb 5:00–11:00 y 14:00–17:00 · dom cerrado": "Mon–Fri 5:00–11:00 and 14:00–20:00 · Sat 5:00–11:00 and 14:00–17:00 · Sun closed",
+    "Pase del día aprox. C$180. Lleva toalla: es requisito para entrar.": "Day pass about C$180. Bring a towel: it is required to get in.",
+    "Pesas": "Weights",
+    "Máquinas": "Machines",
+    "MMA, muay thai, BJJ y boxeo": "MMA, Muay Thai, BJJ and boxing",
+    "Gimnasio de artes marciales desde 2008, en el segundo piso sobre Dockside, en el puerto. Clases grupales y privadas de BJJ, MMA, muay thai y boxeo para todos los niveles, con guantes, sacos y rack de pesas.": "A martial arts gym since 2008, upstairs above Dockside at the port. Group and private BJJ, MMA, Muay Thai and boxing classes for all levels, with gloves, heavy bags and a weight rack.",
+    "El puerto · sobre Dockside": "The port · above Dockside",
+    "Lun–dom 7:00–22:00": "Mon–Sun 7:00–22:00",
+    "Clase US$6, día US$10, mes US$40, sin contrato. Se paga abajo en Dockside. WhatsApp +505 8485 3176.": "Class US$6, day US$10, month US$40, no contract. Pay downstairs at Dockside. WhatsApp +505 8485 3176.",
+    "Muay thai": "Muay Thai",
+    "BJJ": "BJJ",
+    "Gimnasios": "Gyms"
   }
 }
